@@ -1,2 +1,2 @@
 # SoftwareEngProject
-Software engeneering project for university exam
+Software Engeneering project for university exam
